@@ -1,0 +1,14 @@
+{
+  "files.associations": {
+    "*.gradle.kts": "kotlin",
+    "*.kt": "kotlin",
+    "*.xml": "xml"
+  },
+  "kotlin.languageServer.enabled": true,
+  "kotlin.debugAdapter.enabled": true,
+  "kotlin.trace.server": "messages",
+  "java.configuration.updateBuildConfiguration": "automatic",
+  "java.compile.nullAnalysis.mode": "automatic",
+  "java.import.gradle.enabled": true,
+  "java.import.gradle.wrapper.enabled": true
+} 
